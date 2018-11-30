@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         Horse horse1 = new Mustang("Secretariat",12000);
         Horse horse2 = new Mustang("dusty Trail", 22000);
-        Horse horse3 = new Mustang("silver", 12000):
+        Horse horse3 = new Mustang("silver", 12000);
 
         Horse[] horses = new Horse[6];
 
